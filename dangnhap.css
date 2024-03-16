@@ -1,0 +1,54 @@
+*{
+    background: #FFF0F5;
+}
+h1{
+    text-align: center;
+    color: #FF1493;
+    font-size: 70px;
+    margin-top: 50px;
+}
+form{
+    border: 2px dashed #FF1493;
+    padding: 30px;
+    width: fit-content;
+    margin-left: 32%;
+    font-size: 20px;
+    margin-top: 80px;
+}
+.label{
+    width: 150px;
+    display: inline-block;
+    color: #FF69B4;
+    font-weight: bold;
+}
+.input{
+    background:#ffffff;
+    width: 200px;
+    height: 35px;
+    border-radius: 10px;
+    border: none;
+    color:#FF1493F5;
+    
+}
+form p select{
+    background: #ffffff;
+}
+button{
+    width: 130px;
+    height: 35px;
+    border-radius: 10px;
+}
+#dangky{
+    background: #ffffff;
+    color: #FF69B4;
+    margin-left: 350px;
+    border: none;
+}
+main{
+    margin-top: 60px;
+    background: #FFC0CB;
+    border-radius: 10px;
+    color: #ffffff;
+    padding: 10px;
+    text-align: center;
+}

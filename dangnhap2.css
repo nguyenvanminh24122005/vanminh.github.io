@@ -1,0 +1,59 @@
+*{
+    background: #FFF0F5;
+}
+h1{
+    text-align: center;
+    color: #FF1493;
+    font-size: 70px;
+    margin-top: 90px;
+    margin-bottom: 100px;
+}
+form{
+    border: 2px dashed #FF1493;
+    padding: 30px;
+    width: fit-content;
+    margin-left: 32%;
+    font-size: 20px;
+    margin-top: 80px;
+    margin-bottom: 160px;
+}
+.label{
+    width: 150px;
+    display: inline-block;
+    color: #FF69B4;
+    font-weight: bold;
+}
+.input{
+    background:#ffffff;
+    width: 200px;
+    height: 35px;
+    border-radius: 10px;
+    border: none;
+    color:#FF1493F5;
+}
+button{
+    width: 130px;
+    height: 35px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+#dangky{
+    background: #ffffff;
+    color: #FF69B4;
+    border: none;
+}
+#dangnhap{
+    background: #ffffff;
+    color: #FF69B4;
+    border: none;
+    margin-left: 200px;
+
+}
+main{
+    margin-top: 65px;
+    background: #FFC0CB;
+    border-radius: 10px;
+    color: #ffffff;
+    padding: 10px;
+    text-align: center;
+}
